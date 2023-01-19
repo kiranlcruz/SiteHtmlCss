@@ -11,7 +11,9 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://cursos.alura.com.br/course/html5-css3-avancando-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![][image](https://user-images.githubusercontent.com/90365651/213543874-4ca26f93-77bc-4292-97bf-5b4cc6702343.png) #VITRINEDEV
+
+![Captura de tela 2023-01-19 164446](https://user-images.githubusercontent.com/90365651/213544425-37966660-4e49-4814-9217-3022c34c0240.png)
+
 
 ## Detalhes do projeto
 
