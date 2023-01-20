@@ -17,3 +17,4 @@ Rápida descrição do objetivo de fazer esse projeto
 ## Detalhes do projeto
 
 Site de uma barbearia responsivel em HTML e CSS.
+
