@@ -1,6 +1,6 @@
 # Barbearia 
 
-Rápida descrição do objetivo de fazer esse projeto
+Site de barbearia criado com ALURA em HTML/CSS responsivo.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
