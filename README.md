@@ -1,5 +1,4 @@
-# modelo-vitrinedev
-# Nome do meu projeto
+# Barbearia 
 
 Rápida descrição do objetivo de fazer esse projeto
 
